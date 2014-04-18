@@ -9,7 +9,8 @@ Required packages:
 
 - scipy
 - matplotlib
+- OpenCV for Python
 
 To run:
 
-python corr.py data.png
+  python corr.py data.png
