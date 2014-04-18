@@ -13,4 +13,4 @@ Required packages:
 
 To run:
 
-  python corr.py data.png
+  <code>python corr.py data.png</code>
